@@ -1,4 +1,4 @@
-# Biopharm-10K-AI-Digital-Disclosure-Analysis
+# Biopharma_10K_AI_Digital_Disclosure_Analysis_FY2020-2024_Peer6
 
 This repository presents a **text analytics project** examining how selected **biopharmaceutical companies** disclose **AI and digital transformation** topics in annual filings (FY2020–FY2024) using public data from the **U.S. SEC EDGAR** system.  
 The project applies **Python-based document retrieval, keyword extraction, and visualization** to quantify disclosure intensity and compare cross-company trends.
